@@ -1,0 +1,2 @@
+# hardseed
+种子
